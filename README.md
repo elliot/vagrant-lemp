@@ -26,6 +26,7 @@ What's Inside:
 + Nginx 
 + Ajenti
 + Git
++ Supervisord
 
 
 Credits:
