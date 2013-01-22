@@ -22,7 +22,7 @@ What's Inside:
 + Ubuntu 12.04 LTS (Precise Pangolin)
 + PHP 5.4
 + PHP-FPM
-+ MySQL 5.5
++ Postgres
 + Nginx 
 + Ajenti
 + Git
